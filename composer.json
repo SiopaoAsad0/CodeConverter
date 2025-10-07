@@ -1,6 +1,0 @@
-{
-    "require": {
-        "symfony/process": "^7.3",
-        "laravel/sanctum": "^4.2"
-    }
-}
